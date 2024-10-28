@@ -1,6 +1,6 @@
 # cryptocurrencies-analysis
 
-Project to help analyze the BTC market and cycles with graphs.
+Project to help analyze the BTC market and cycles with charts.
 
 
 Graphs
